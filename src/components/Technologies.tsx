@@ -73,7 +73,7 @@ export default function Technologies() {
     <h2 className='text-gray-300 mb-8'>TECHNOLOGIES I USE</h2>
     <div className="mt-4 grid gap-4 md:grid-cols-5">
     {projects.map((item) => (
-    <a className='items-center justify-between flex space-x-2 rounded-lg py-4 px-4 hover:bg-zinc-800 duration-150' target="_blank" rel="noreferrer">
+    <a className='items-center justify-between flex space-x-2 rounded-lg py-4 px-4 hover:bg-zinc-800 duration-150 select-none' target="_blank" rel="noreferrer">
     <h4 className='text-gray-400'>{item.name}</h4>
     <i className={`text-3xl ${item.icon} colored`}></i>
     </a>
