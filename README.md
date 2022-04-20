@@ -1,6 +1,6 @@
 
 # My Personal Website 🎉
-[Demo](https://halil.one)
+[Live Preview](https://halil.one)
 
 
 This repository has been opened for bugs and feedback.
