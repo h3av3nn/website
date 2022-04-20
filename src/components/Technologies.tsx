@@ -51,6 +51,18 @@ const projects = [
     icon: "devicon-wordpress-plain"
     },
     {
+    name: "Nuxt.js",
+    icon: "devicon-nuxtjs-plain"
+    },
+    {
+    name: "C#",
+    icon: "devicon-csharp-plain"    
+    },
+    {
+    name: "Figma",
+    icon: "devicon-figma-plain"    
+    },
+    {
     name: "Sass",
     icon: "devicon-sass-plain"
     },
