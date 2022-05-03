@@ -55,6 +55,10 @@ const projects = [
     icon: "devicon-nuxtjs-plain"
     },
     {
+    name: "Bulma",
+    icon: "devicon-bulma-plain"
+    },
+    {
     name: "C#",
     icon: "devicon-csharp-plain"    
     },
