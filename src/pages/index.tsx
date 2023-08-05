@@ -30,9 +30,6 @@ export default function HomePage() {
             <p className='mt-2 text text-zinc-500 text-bold'>
             Hello, I'm Halil, people on the internet know me as HeaveNejs. I am a passionate self-taught full stack web developer from Turkey. My passion for software lies in imagining ideas and making them come true with elegant interfaces.            <p className='mt-2 text-sm text-zinc-400'>
             </p>
-              <ArrowLink href='https://discord.gg/nuxonic'>
-                Join Discord Server
-              </ArrowLink>
             </p>
             </div>
             <div>
