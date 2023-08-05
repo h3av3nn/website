@@ -15,10 +15,6 @@ import Tecnologies from '@/components/Technologies'
 
 const contacts = [
     {
-        name: "Discord Server",
-        href: "https://discord.gg/nuxonic"
-    },
-    {
         name: "Instagram",
         href: "https://instagram.com/heaven.ejs?utm_source=halil.one"
     },
